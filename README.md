@@ -1,10 +1,10 @@
 ### Backend app for f1 forum 
 
-##About:
+## About:
 Backend for: https://github.com/LavaGolem/lavagolem-forum-app-frontend
 
-###Technolgies: 
+### Technolgies: 
 NodeJs + Express
  
-###Development: 
+### Development: 
 Run service with: ```npm start```
